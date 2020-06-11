@@ -1,0 +1,18 @@
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\bin\Debug\BillCypher.exe.config
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\bin\Debug\BillCypher.exe
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\bin\Debug\BillCypher.pdb
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.csprojAssemblyReference.cache
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.csproj.CoreCompileInputs.cache
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.exe
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.pdb
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.Properties.Resources.resources
+C:\Users\Gideo\OneDrive\Documents\Visual Studio 2017\Projects\BillCypher\BillCypher\obj\Debug\BillCypher.csproj.GenerateResource.cache
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.csprojResolveAssemblyReference.cache
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.Properties.Resources.resources
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.csproj.GenerateResource.cache
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.csproj.CoreCompileInputs.cache
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.exe
+E:\VisualStudio\BillCypher\BillCypher\obj\Debug\BillCypher.pdb
+E:\VisualStudio\BillCypher\BillCypher\bin\Debug\BillCypher.exe.config
+E:\VisualStudio\BillCypher\BillCypher\bin\Debug\BillCypher.exe
+E:\VisualStudio\BillCypher\BillCypher\bin\Debug\BillCypher.pdb
